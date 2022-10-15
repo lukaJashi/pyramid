@@ -1,0 +1,8 @@
+C:\Users\Computer-Nutzer\source\repos\пирамида2\пирамида2\obj\Debug\пирамида2.csproj.AssemblyReference.cache
+C:\Users\Computer-Nutzer\source\repos\пирамида2\пирамида2\obj\Debug\пирамида2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computer-Nutzer\source\repos\пирамида2\пирамида2\obj\Debug\пирамида2.csproj.CoreCompileInputs.cache
+C:\Users\Computer-Nutzer\source\repos\пирамида2\пирамида2\bin\Debug\пирамида2.exe.config
+C:\Users\Computer-Nutzer\source\repos\пирамида2\пирамида2\bin\Debug\пирамида2.exe
+C:\Users\Computer-Nutzer\source\repos\пирамида2\пирамида2\bin\Debug\пирамида2.pdb
+C:\Users\Computer-Nutzer\source\repos\пирамида2\пирамида2\obj\Debug\пирамида2.exe
+C:\Users\Computer-Nutzer\source\repos\пирамида2\пирамида2\obj\Debug\пирамида2.pdb
